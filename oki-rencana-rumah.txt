@@ -1,3 +1,5 @@
 Renacana Rumah
 - Membangun bangunan utama
+ -.Membeli material
+ -.Membangun rumah
 - Melakukan Finishing Bertahap 
